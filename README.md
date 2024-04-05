@@ -11,3 +11,10 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
+
+# View Chainlink folder to bootcamp
+
+npm install -D @chainlink/contracts
+
+# Sepolia Etherscan
+https://sepolia.etherscan.io/

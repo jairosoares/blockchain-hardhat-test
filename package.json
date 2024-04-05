@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@openzeppelin/contracts-upgradeable": "^5.0.2",
-    "@openzeppelin/hardhat-upgrades": "^3.0.5"
+    "@openzeppelin/hardhat-upgrades": "^3.0.5",
+    "@chainlink/contracts": "^1.0.0"
   }
 }
